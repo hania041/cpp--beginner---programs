@@ -9,8 +9,8 @@ As I continue learning, I’ll add more programs covering different topics.
 
 - `add-two-numbers.cpp` — Adds two numbers and prints the result.
 - `positive-negative numbers checker.cpp` _ check whether a number is positive,negative or zero.
- `2player.cpp`_one player enters a number and the other guesses it.
- `simple-5operation-calculator.cpp` _takes input from user and performs a specific operation
+- `2player.cpp`_one player enters a number and the other guesses it.
+- `simple-5operation-calculator.cpp` _takes input from user and performs a specific operation
 More programs will be added soon!
 
 ---
