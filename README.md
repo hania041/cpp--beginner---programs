@@ -14,7 +14,7 @@ As I continue learning, I’ll add more programs covering different topics.
 - `2player-number-guessing game.cpp`_ A two-player number guessing game where Player 1 enters a hidden secret number and Player 2 guesses it with hints.
 - `random-number-guesiing game.cpp` _A random number guessing game where the computer picks a number between 1–100 and the player guesses until correct.
 - `unit converter.cpp`_A simple unit converter that converts inches, gallons, miles, pounds, and megabytes into their respective units.
--`mini-quiz-game.cpp`_A mini quiz game with 3 multiple-choice questions and score tracking.
+- `mini-quiz-game.cpp`_A mini quiz game with 3 multiple-choice questions and score tracking.
 More programs will be added soon!
 
 ---
